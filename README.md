@@ -23,4 +23,4 @@ model.compile(optimizer='adam')
 model.fit(x_train, y_train, epochs=10)
 ```
 
-See the [tutorials](../master/tutorials) for more details and features.
+See the [tutorials](../main/tutorials) for more details and features.
