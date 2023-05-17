@@ -23,4 +23,4 @@ model.compile(optimizer='adam')
 model.fit(x_train, y_train, epochs=10)
 ```
 
-See the [tutorials](https://vhmedina.github.io/deepcure/tutorials) for more details and features.
+See the [tutorials](https://vhmedina.github.io/deepcure/tutorials](https://github.com/vhmedina/deepcure/tree/main/tutorials) for more details and features.
