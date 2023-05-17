@@ -1,0 +1,17 @@
+.DS_Store
+.Rhistory
+.Rproj.user
+*.Rproj
+.Rdata
+
+# ignore the following files
+**/__pycache__/
+*.txt
+!requirements.txt
+
+# Packages
+build/
+*.egg-info/
+
+# doc
+docs/_build/
