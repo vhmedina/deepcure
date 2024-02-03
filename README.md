@@ -24,3 +24,15 @@ model.fit(x_train, y_train, epochs=10)
 ```
 
 See the [tutorials](../main/tutorials) for more details and features.
+
+## How to cite `deepcure`?
+For the methodology, please cite the following
+
+```
+@article{medina2023deep,
+  title={The Deep Promotion Time Cure Model},
+  author={Medina-Olivares, Victor and Lessmann, Stefan and Klein, Nadja},
+  journal={arXiv preprint arXiv:2305.11575},
+  year={2023}
+}
+```

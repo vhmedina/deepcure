@@ -15,3 +15,5 @@ build/
 
 # doc
 docs/_build/
+README_files/
+README.html
